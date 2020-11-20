@@ -1,5 +1,5 @@
 # Space-Invaders
-the classic Space Invaders game made in python and pygame.Suggestions are higly recommended
+The classic Space Invaders game made in python and pygame.Suggestions are higly recommended
 
 # Python packages needed:
 If you have already installed Anaconda you need to install only pygame and sqlite3, alternatively from terminal:<br/>
