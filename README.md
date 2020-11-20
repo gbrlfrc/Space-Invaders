@@ -10,5 +10,5 @@ If you have already installed Anaconda you need to install only pygame and sqlit
 > sudo pip install pygame<br/>
 > sudo pip install sqlite3<br/>
 
-![](images/image1.png)
+![](images/image1.png) <br/>
 ![](images/image2.png)
