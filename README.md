@@ -2,13 +2,11 @@
 The classic Space Invaders game made in python and pygame.Suggestions are higly recommended
 
 # Python packages needed:
-If you have already installed Anaconda you need to install only pygame and sqlite3, alternatively from terminal:<br/>
-> sudo pip install os<br/>
-> sudo pip install random<br/>
-> sudo pip install math<br/>
-> sudo pip install collections<br/>
-> sudo pip install pygame<br/>
-> sudo pip install sqlite3<br/>
-
+```bash
+pip install -r requirements.txt
+# or
+pip3 install -r requirements.txt
+# depending on pip version
+```
 ![](images/image1.png) <br/> <br/>
 ![](images/image2.png)
